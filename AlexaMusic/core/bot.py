@@ -14,7 +14,7 @@ import sys
 
 from pyrogram import Client
 import config
-from ..logging import LOGGER
+from ..logging import 
 from pyrogram.enums import ChatMemberStatus
 
 
